@@ -16,7 +16,7 @@ This project is a weather application built using React. It provides real-time w
 ## Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/Hirdhyakk/weather-app.git
    cd weather-app
    ```
 
@@ -43,9 +43,3 @@ This project is a weather application built using React. It provides real-time w
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the coding standards and include appropriate documentation.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-## Contact
-For any inquiries or issues, please contact [your email address].
