@@ -3,6 +3,9 @@
 ## Overview
 This project is a weather application built using React. It provides real-time weather information for different locations, allowing users to search for and view weather data such as temperature, humidity, and weather conditions.
 
+## Live Preview
+https://hirdhyakhanna-weatherapp.netlify.app/
+
 ## Features
 - **Real-time Weather Data:** Fetches and displays current weather information.
 - **Search Functionality:** Allows users to search for weather information by city.
